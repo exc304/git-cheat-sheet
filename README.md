@@ -18,8 +18,8 @@ Configuring user information, initializing and cloning repos
 | Command | What it does |
 | --- | --- |
 | git init | initializes an existing directory as a git repo |
-| git clone url | retrieves an entire repo from a url |
-| git clone url; cd <local_folder_name> | retrieves an entire repo from a url then creates and saves it to a specified local location |
+| git clone `url` | retrieves an entire repo from a url |
+| git clone `url` ; cd `<local_folder_name>` | retrieves an entire repo from a url then creates and saves it to a specified local location |
 
 ### A cheat sheet for Git workflows
 ![Git Cheat Sheet](https://cdn.filestackcontent.com/nXssKoRBQQOxnVIfrEfX)
