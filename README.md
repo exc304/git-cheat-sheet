@@ -14,6 +14,7 @@ Configures user information used across all local repos
 | git config --global user.name `firstname lastname` | sets a name to be associated |
 | git config --global user.email `valid-email` | sets an email address to be associated |
 | git config --global color.ui | autosets automatic command line color |
+| git config --global init.defaultBranch `<name>` | sets local initial branch name to use in all new repos |
 
 ### Repo Setup & Init
 Configuring user information, initializing and cloning repos
