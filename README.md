@@ -1,5 +1,5 @@
 # git-cheat-sheet
-A cheat sheet for Git workflows.
+A cheat sheet for git workflows.
 
 `git` is a version control system that lets you manage and keep track of your source code history and is responsible for everything GitHub related that happens locally on your computer. GitHub is a cloud-based hosting service that lets you manage Git repositories.
 
@@ -26,7 +26,7 @@ Configuring user information, initializing and cloning repos
 | git clone `url; cd <local_folder_name>` | retrieves an entire repo from a url then creates and saves it to a specified local location |
 
 
-### 🍬 This next section assumes the remote repository is represented by a remote or Git server 🍬
+### 🍬 This section assumes the remote repo is represented by a remote or Git server 🍬
 
 ### Pushing and Pulling
 | Command | What it does |
