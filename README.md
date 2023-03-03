@@ -64,4 +64,4 @@ Configuring user information, initializing and cloning repos
 #### 🙇‍♀️ Pro tip: If you're using Mac OS, to show hidden files in a directory use `cmd + shift + .` 
 
 
-Made by Erin Hess, this work is licensed under the Creative Commons Attribution 4.0 License.
+Made by Erin Crise, this work is licensed under the Creative Commons Attribution 4.0 License.
