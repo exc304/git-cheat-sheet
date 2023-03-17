@@ -32,17 +32,17 @@ Configuring user information, initializing and cloning repos
 | Command | What it does |
 | --- | --- |
 | git clone `url` | retrieves an entire repo from a url |
-| git clone `url; cd<local_folder_name>` | retrieves an entire repo from a url then clones it to a specified local folder |
+| git clone `url; cd <local_folder_name>` | retrieves an entire repo from a url then clones it to a specified local folder |
 | git remote add `origin<link>` | to add a link |
-| git push | to push to master |
-| git push -u origin master | to push to origin |
+| git push | to push to your master (or main) branch |
+| git push -u `origin master` | to push to origin |
 
 ### Branching and Merging
 | Command | What it does |
 | --- | --- |
 | git checkout `-b branchname` | to create a new branch |
 | git status | to see everything that's been modified |
-| git merge origin/master | to merge master into your new branch |
+| git merge `origin/master` | to merge master into your new branch |
 | git branch | to list branches |
 | git branch -a | to list all the branches (might be the same as 👆) |
 
@@ -51,7 +51,7 @@ Configuring user information, initializing and cloning repos
 | --- | --- |
 | git add `<filename>` | to add a file |
 | git add `<1st filename> <2nd filename> <3rd filename>` | to add multiple files |
-| git add -all or * or -A | to add all updated files |
+| git add `-all` or `*` or `-A` | to add all updated files |
 | git rm -r `<filename>` | to remove a file |
   
 ### Committing Changes
